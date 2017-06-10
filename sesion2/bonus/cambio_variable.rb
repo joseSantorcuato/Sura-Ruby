@@ -24,6 +24,11 @@ puts "División"
 puts "Resultado", 1/1.5
 
 deci = 0.12345
+puts deci.class
+deci = "SURA"
+puts deci.class
+deci = 12
+puts deci.class
 
 puts '%.2f' % (1/1.5)
 
