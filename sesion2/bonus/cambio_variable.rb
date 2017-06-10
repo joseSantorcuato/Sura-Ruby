@@ -1,4 +1,4 @@
-titulo1 = "Curso Ruby Bonus Float, round\n José Santorcuato Tapia"
+titulo1 = "Curso Ruby Cambio variable\n José Santorcuato Tapia"
 titulo2 = '2017'
 titulo3 = 'CHILE'
 
