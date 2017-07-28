@@ -1,0 +1,1 @@
+073_sele_compra.rb:17: warning: already initialized constant STDERR

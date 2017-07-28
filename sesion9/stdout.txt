@@ -1,0 +1,30 @@
+Loaded suite 073_sele_compra
+Started
+.
+
+Finished in 27.037918 seconds.
+------
+1 tests, 0 assertions, 0 failures, 0 errors, 0 pendings, 0 omissions, 0 notifications
+100% passed
+------
+0.04 tests/s, 0.00 assertions/s
+Loaded suite 073_sele_compra
+Started
+.
+
+Finished in 25.788263 seconds.
+------
+1 tests, 0 assertions, 0 failures, 0 errors, 0 pendings, 0 omissions, 0 notifications
+100% passed
+------
+0.04 tests/s, 0.00 assertions/s
+Loaded suite 073_sele_compra
+Started
+.
+
+Finished in 28.483206 seconds.
+------
+1 tests, 0 assertions, 0 failures, 0 errors, 0 pendings, 0 omissions, 0 notifications
+100% passed
+------
+0.04 tests/s, 0.00 assertions/s
