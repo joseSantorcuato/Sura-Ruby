@@ -1,0 +1,22 @@
+{
+   "Pais": "Chile",
+   "Presidente": "Michelle Bachelet",
+
+   "Santiago": [
+      "Felipe Alessandri",
+      "Carolina Toha"
+
+   ],
+
+   "Valparaiso": [
+      "Jorge Sharp",
+      "Marina Huerta"
+   ],
+
+   "Iquique": [
+      "Mauricio Soria",
+      "Jorge Soria"
+
+   ]
+
+}
