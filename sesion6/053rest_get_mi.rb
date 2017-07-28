@@ -4,6 +4,7 @@ require 'json'
 require 'pp'
 
 
+
 titulo1 = "Curso Ruby 053\nJosé Santorcuato Tapia"
 titulo2 = "2017"
 titulo3 = "CHILE"
